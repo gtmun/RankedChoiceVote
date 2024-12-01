@@ -1,0 +1,27 @@
+Timestamp,ExampleRole [Alice],ExampleRole [Bob],ExampleRole [Carole],ExampleRole [David]
+01/01/2000 00:00:49,2nd Choice,4th Choice,3rd Choice,1st Choice
+01/01/2000 00:01:02,3rd Choice,4th Choice,2nd Choice,1st Choice
+01/01/2000 00:01:03,2nd Choice,1st Choice,3rd Choice,No Confidence 1
+01/01/2000 00:01:05,4th Choice,1st Choice,2nd Choice,3rd Choice
+01/01/2000 00:01:08,1st Choice,4th Choice,3rd Choice,2nd Choice
+01/01/2000 00:01:08,1st Choice,4th Choice,3rd Choice,2nd Choice
+01/01/2000 00:01:09,3rd Choice,No Confidence 1,1st Choice,2nd Choice
+01/01/2000 00:01:09,3rd Choice,4th Choice,2nd Choice,1st Choice
+01/01/2000 00:01:11,1st Choice,4th Choice,3rd Choice,2nd Choice
+01/01/2000 00:01:13,2nd Choice,No Confidence 1,3rd Choice,1st Choice
+01/01/2000 00:01:16,1st Choice,4th Choice,2nd Choice,3rd Choice
+01/01/2000 00:01:20,1st Choice,4th Choice,3rd Choice,2nd Choice
+01/01/2000 00:01:20,1st Choice,2nd Choice,4th Choice,3rd Choice
+01/01/2000 00:01:24,1st Choice,3rd Choice,2nd Choice,4th Choice
+01/01/2000 00:01:25,No Confidence 1,3rd Choice,2nd Choice,1st Choice
+01/01/2000 00:01:28,3rd Choice,No Confidence 1,1st Choice,2nd Choice
+01/01/2000 00:01:32,2nd Choice,4th Choice,1st Choice,3rd Choice
+01/01/2000 00:01:36,1st Choice,4th Choice,3rd Choice,2nd Choice
+01/01/2000 00:01:37,2nd Choice,No Confidence 1,3rd Choice,1st Choice
+01/01/2000 00:01:40,3rd Choice,4th Choice,2nd Choice,1st Choice
+01/01/2000 00:01:42,1st Choice,4th Choice,3rd Choice,2nd Choice
+01/01/2000 00:01:43,2nd Choice,No Confidence 1,3rd Choice,1st Choice
+01/01/2000 00:01:50,1st Choice,No Confidence 1,3rd Choice,2nd Choice
+01/01/2000 00:01:52,4th Choice,1st Choice,2nd Choice,3rd Choice
+01/01/2000 00:01:57,1st Choice,No Confidence 1,3rd Choice,2nd Choice
+01/01/2000 20:00:11,2nd Choice,4th Choice,3rd Choice,1st Choice
